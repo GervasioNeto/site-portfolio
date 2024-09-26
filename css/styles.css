@@ -1,0 +1,103 @@
+
+
+body,html {
+    margin: 0px;
+    padding: 0px;
+    font-size: 0;
+
+}
+body {
+    background-color: #011F26;
+    font-family: 'Lato', sans-serif;
+
+
+}
+.navigation {
+    background-color: #011F26;
+    color: white;
+    height: 50px;
+}
+
+.navigation ul {
+    margin-top: 0;
+    list-style: none;
+    padding-left: 0;
+    text-align: right;
+    height: 50px;
+}
+
+.navigation li {
+    display: inline-block;
+    padding-left: 30px;
+    padding-right: 30px;
+    line-height: 50px;
+    font-size: 16px;
+    font-weight: 300;
+
+}
+
+.capa {
+    color: white;
+}
+
+.capa span{
+    color: #F2A20C;
+    display: block;
+}
+
+.capa div {
+    display: inline-block;
+    height: 650px;
+}
+
+.profile-pic {
+    width: 40%;
+    text-align: center;
+}
+
+.profile-pic img {
+    width: 350px;
+    border-radius: 350px;
+    margin-top: 100px;
+}
+
+.profile-title {
+    vertical-align: top;
+    width: 60%;
+
+}
+
+.profile-title h1 {
+    font-size: 58px;
+    margin-top: 180px;
+    text-transform: uppercase;
+    font-weight: 700;
+    line-height: 54px;
+}
+
+.profile-title h2 {
+    font-size: 16px;
+    font-weight: 300;
+    margin-top: -30px;
+}
+
+/* Color Theme Swatches in Hex */
+.Profile-side-view-portrait-of-his-he-nice-attractive-skilled-smart-focused-concentrated-guy-consultant-writing-script-creating-new-digital-desktop-app-in-dark-room-workplace-station-indoors-1-hex { color: #594258; }
+.Profile-side-view-portrait-of-his-he-nice-attractive-skilled-smart-focused-concentrated-guy-consultant-writing-script-creating-new-digital-desktop-app-in-dark-room-workplace-station-indoors-2-hex { color: #5C51A6; }
+.Profile-side-view-portrait-of-his-he-nice-attractive-skilled-smart-focused-concentrated-guy-consultant-writing-script-creating-new-digital-desktop-app-in-dark-room-workplace-station-indoors-3-hex { color: #2A438C; }
+.Profile-side-view-portrait-of-his-he-nice-attractive-skilled-smart-focused-concentrated-guy-consultant-writing-script-creating-new-digital-desktop-app-in-dark-room-workplace-station-indoors-4-hex { color: #0455BF; }
+.Profile-side-view-portrait-of-his-he-nice-attractive-skilled-smart-focused-concentrated-guy-consultant-writing-script-creating-new-digital-desktop-app-in-dark-room-workplace-station-indoors-5-hex { color: #011F26; }
+
+/* Color Theme Swatches in RGBA */
+.Profile-side-view-portrait-of-his-he-nice-attractive-skilled-smart-focused-concentrated-guy-consultant-writing-script-creating-new-digital-desktop-app-in-dark-room-workplace-station-indoors-1-rgba { color: rgba(89, 66, 87, 1); }
+.Profile-side-view-portrait-of-his-he-nice-attractive-skilled-smart-focused-concentrated-guy-consultant-writing-script-creating-new-digital-desktop-app-in-dark-room-workplace-station-indoors-2-rgba { color: rgba(92, 81, 165, 1); }
+.Profile-side-view-portrait-of-his-he-nice-attractive-skilled-smart-focused-concentrated-guy-consultant-writing-script-creating-new-digital-desktop-app-in-dark-room-workplace-station-indoors-3-rgba { color: rgba(42, 66, 140, 1); }
+.Profile-side-view-portrait-of-his-he-nice-attractive-skilled-smart-focused-concentrated-guy-consultant-writing-script-creating-new-digital-desktop-app-in-dark-room-workplace-station-indoors-4-rgba { color: rgba(3, 85, 191, 1); }
+.Profile-side-view-portrait-of-his-he-nice-attractive-skilled-smart-focused-concentrated-guy-consultant-writing-script-creating-new-digital-desktop-app-in-dark-room-workplace-station-indoors-5-rgba { color: rgba(0, 31, 38, 1); }
+
+/* Color Theme Swatches in HSLA */
+.Profile-side-view-portrait-of-his-he-nice-attractive-skilled-smart-focused-concentrated-guy-consultant-writing-script-creating-new-digital-desktop-app-in-dark-room-workplace-station-indoors-1-hsla { color: hsla(303, 14, 30, 1); }
+.Profile-side-view-portrait-of-his-he-nice-attractive-skilled-smart-focused-concentrated-guy-consultant-writing-script-creating-new-digital-desktop-app-in-dark-room-workplace-station-indoors-2-hsla { color: hsla(247, 34, 48, 1); }
+.Profile-side-view-portrait-of-his-he-nice-attractive-skilled-smart-focused-concentrated-guy-consultant-writing-script-creating-new-digital-desktop-app-in-dark-room-workplace-station-indoors-3-hsla { color: hsla(225, 53, 35, 1); }
+.Profile-side-view-portrait-of-his-he-nice-attractive-skilled-smart-focused-concentrated-guy-consultant-writing-script-creating-new-digital-desktop-app-in-dark-room-workplace-station-indoors-4-hsla { color: hsla(213, 96, 38, 1); }
+.Profile-side-view-portrait-of-his-he-nice-attractive-skilled-smart-focused-concentrated-guy-consultant-writing-script-creating-new-digital-desktop-app-in-dark-room-workplace-station-indoors-5-hsla { color: hsla(191, 96, 7, 1); }
